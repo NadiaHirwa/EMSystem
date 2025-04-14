@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850911894557",
+    "project_id": "emsystem-9d140",
+    "storage_bucket": "emsystem-9d140.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850911894557:android:5b4f06f0c9b61e0f883af4",
+        "android_client_info": {
+          "package_name": "com.dotcoder.ems"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWK920wcYoDfyohw7uK1zGJnmEaGwnuIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
